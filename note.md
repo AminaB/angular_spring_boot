@@ -6,3 +6,6 @@ https://github.com/darbyluv2code/fullstack-angular-and-springboot/blob/master/in
   - ng new angular-ecommerce
   - ng serve --open
   - ng generate component components/product-list
+  - ng generate class common/product
+  - ng generate service services/product
+
