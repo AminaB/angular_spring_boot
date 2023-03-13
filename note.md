@@ -8,4 +8,8 @@ https://github.com/darbyluv2code/fullstack-angular-and-springboot/blob/master/in
   - ng generate component components/product-list
   - ng generate class common/product
   - ng generate service services/product
+  - npm install bootstrap@5.2.0
+  -  npm install @fortawesome/fontawesome-free
+
+
 
