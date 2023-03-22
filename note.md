@@ -10,6 +10,8 @@ https://github.com/darbyluv2code/fullstack-angular-and-springboot/blob/master/in
   - ng generate service services/product
   - npm install bootstrap@5.2.0
   -  npm install @fortawesome/fontawesome-free
-
+## routes
+  - routes defined into app.module.ts file 
+  - start from the most specific to generic
 
 
